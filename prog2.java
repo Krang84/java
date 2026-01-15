@@ -1,3 +1,6 @@
+import java.util.Scanner;
+
 public Class prog2 {
-  import java.util.Scanner;
+
+  Scanner reader = new Scanner(System.in);
 }
